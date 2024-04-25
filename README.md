@@ -12,4 +12,4 @@ A nota será composta pelos seguintes itens:
 ⁠Backlog da Sprint, com histórias de usuário detalhadas, estimadas e com critérios de aceitação (1,5 pts)
 Imagens dos Protótipos de Interface (2,0 pts)
 Vídeo de Apresentação (2,0 pts)
-Link para o template Lean Inception: https://miro.com/miroverse/lean-inception-workshop/ Basta clicar em "Use template" e seguir as instruções.
+Link para o template Lean Inception: https://miro.com/welcomeonboard/N1I2aFVlR05pQW41b2daS0MzdUliUmVMeVlSa2tCTUJvZmRzYnpZRldWMkt6Mkc5ODdnOWJKTGJTaDh0ZEN0RHwzNDU4NzY0NTg2NTYyODc2ODMxfDI=?share_link_id=166714471614
